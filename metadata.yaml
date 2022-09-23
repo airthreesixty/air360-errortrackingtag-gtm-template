@@ -1,0 +1,5 @@
+homepage: "https://www.air360.io/"
+documentation: "https://app.air360.io/docs/getting-started#web"
+versions:
+  - sha: 05a95e631957910a86d020eff13a4e6b366c4235
+    changeNotes: Initial release.
